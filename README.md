@@ -1,12 +1,10 @@
+# Crypto-Tracker---Development-Files
 
-```markdown
-# Crypto-Currency-Tracker
-
-Welcome to Crypto Currency Tracker!
+Welcome to Crypto Tracker Development Files!
 
 ## Overview
 
-Crypto Currency Tracker is a web application that allows users to track cryptocurrency prices and trends in real-time. It provides various features such as live price updates, historical data visualization, and portfolio management.
+This repository contains the development files for Crypto Tracker, a web application for tracking cryptocurrency data in real-time.
 
 ## Installation
 
@@ -15,13 +13,13 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/rvsarish/Crypto-Currency-Tracker.git
+   [git clone https://github.com/rvsarish/Crypto-Tracker---Development-Files.git](https://github.com/rvsarish/Crypto-Currency-Tracker.git)
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd Crypto-Currency-Tracker
+   cd Crypto-Tracker---Development-Files
    ```
 
 3. Install dependencies:
@@ -57,4 +55,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to [CoinGecko](https://www.coingecko.com/) for providing the cryptocurrency data.
 - Special thanks to the open-source community for their invaluable contributions.
-```
