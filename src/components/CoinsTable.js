@@ -72,7 +72,6 @@ export default function CoinsTable() {
 
   useEffect(() => {
     fetchCoins();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [currency]);
 
   const handleSearch = () => {
@@ -191,7 +190,6 @@ export default function CoinsTable() {
           )}
         </TableContainer>
 
-        {/* Comes from @material-ui/lab */}
         <Pagination
           count={(handleSearch()?.length / 10).toFixed(0)}
           style={{
